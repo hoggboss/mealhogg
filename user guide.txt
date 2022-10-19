@@ -1,0 +1,33 @@
+======================
+==USING MEALHOGG.EXE==
+======================
+
+Hello :3 Welcome to Mealhogg.exe v.1.0.
+
+Mealhogg is a software I made to help you save money by providing you with 
+suggested recipes to make during the week which have similar ingredients. 
+By making meals with similar ingredients, you spend less on groceries by buying 
+fewer ingredients, and you're more likely to use up the ingredients you buy 
+before they spoil.
+
+Mealhogg has 3 functions right now:
+- New recipe, which adds a new recipe and its ingredients
+
+- View recipe, which lets you search your recipes for a specific one and view 
+its ingredients
+
+- Meal plan, which generates a list of random recipes with similar ingredients
+
+GETTING STARTED
+*************** 
+Your software should come with a blank file called 'mealhogg.csv', this is 
+where your recipes will be saved, so don't delete it!
+
+You can't use the software without any recipes to search, so start by typing
+'new recipe' into the program and adding some, just follow the instructions 
+on screen.
+
+BASIC COMMANDS
+++++++++++++++
+To interact with the software, use your keyboard to type commands and 
+information
